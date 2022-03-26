@@ -1,4 +1,4 @@
-var audio=document.createElement('audio');
-audio.setAttribute('src','Media/sound.mp3');
+var audio = document.createElement("AUDIO")
+audio.src = "Media/sound.mp3";
 audio.loop=true;
-audio.play();
+audio.play()
